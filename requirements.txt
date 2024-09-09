@@ -1,0 +1,6 @@
+panel
+numpy
+pandas
+param
+openpyxl
+scikit-learn
